@@ -50,7 +50,7 @@ The version property is an integer. It contains four parts and can be summiried 
 4. The version `00`. this related to the day of development or release it your choice. You wil use this part on your daily development process to check the changes that require version upgrade. If you are willing to publish this plugin in the Moodle plugins directory this part will be `00` which is recommended.
 
 
-### Requises
+### Requires
 
 This is the Moodle version required by the plugin.
 
